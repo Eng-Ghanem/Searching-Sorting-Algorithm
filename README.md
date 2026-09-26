@@ -4,6 +4,19 @@ A cross-platform Flutter application engineered to demonstrate, benchmark, and v
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Computational Complexity & Performance Summary](#computational-complexity--performance-summary)
+- [Application Architecture](#application-architecture)
+- [Project Structure](#project-structure)
+- [Application Screenshots](#application-screenshots)
+- [Installation & Running](#installation--running)
+- [Video Demonstration](#video-demonstration)
+- [Author](#author)
+
+---
+
 ## Features
 
 - **Empirical Algorithm Benchmarking**:
